@@ -8,7 +8,7 @@ This package is a Laravel service provider which provides support for Laravel Lo
 ## Installation
 Require this package with composer.
 ```shell
-composer require azate/laravel-telegram-login-auth
+composer require razum/laravel-telegram-login-auth
 ```
 Laravel >=5.5 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
 
